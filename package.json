@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "vite": "vite"
   },
+  "homepage": "https://kagami-tsukimura.github.io/ballpoint-lesson/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
