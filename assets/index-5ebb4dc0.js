@@ -197,7 +197,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     }
   `,v=Ge`
     color: ${l.length>=t?"#ff0000":"auto"};
-  `,O=T=>{o((T==null?void 0:T.value)??"")},x=()=>{a("")},k=T=>{a(T.target.value.length<=t?T.target.value:i),u(l)},F=ly.useReactToPrint({content:()=>d.current,documentTitle:"BallPointLesson",pageStyle:`
+  `,O=T=>{o((T==null?void 0:T.value)??"")},x=()=>{a("")},k=T=>{a(T.target.value.length<=t?T.target.value:i),u(l)},F=ly.useReactToPrint({content:()=>d.current,documentTitle:"TextTracingEditor",pageStyle:`
       @page {
         size: A4 landscape;
         margin: 0;
